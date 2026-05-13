@@ -57,6 +57,8 @@ Before running this project, ensure you have:
 | Git | Latest | https://git-scm.com/ |
 | Web Browser | Chrome/Firefox/Edge | - |
 
+LINK TO PRESENTATION VIDEO - (https://youtu.be/6NlYD63FFrQ?si=-vVVrhtC1ilkOcGj)
+
 ## 📥 Installation Steps
 
 ### Step 1: Clone the Repository
@@ -65,4 +67,4 @@ Before running this project, ensure you have:
 git clone https://github.com/yourusername/mut-ict-website.git
 cd mut-ict-website
 
-LINK TO PRESENTATION VIDEO - (https://youtu.be/6NlYD63FFrQ?si=-vVVrhtC1ilkOcGj )
+
